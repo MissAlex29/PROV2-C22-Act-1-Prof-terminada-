@@ -1,2 +1,2 @@
 # PRO-C22
-estructura alámbrica para c22 
+Actividad del profesor terminada con comentarios 
